@@ -1,1 +1,1 @@
-# NTU Yr 2Sm2: Machine-Learning Sem4
+# NTU Yr2Sm2: Machine-Learning Sem4
